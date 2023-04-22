@@ -23,10 +23,6 @@
 
 [![Email Badge](https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=Gmail&logoColor=white)](mailto:craz1000@naver.com)
 
-## My Top Languages
+## 🔥My Top Languages🔥
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Dothur&layout=compact&theme=dracula)
-
-## My GitHub Visitors
-
-![visitors](https://visitor-badge.glitch.me/badge?page_id=https://github.com/Dothur&left_color=blue&right_color=green)
