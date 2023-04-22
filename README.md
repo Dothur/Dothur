@@ -1,4 +1,4 @@
-[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Dothur&fontSize=90&fontColor=fff)](https://github.com/Dothur)
+[![Header](https://capsule-render.vercel.app/api?type=waving&color=gradient&height=200&section=header&text=Hi!%20I'm%20Dothur&fontSize=90&fontColor=fff)](https://github.com/Dothur)
 ### Hi there 👋
 
 
