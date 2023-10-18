@@ -31,8 +31,6 @@
   </div>
   <br/><br/><br/>
 
-#### 📝 My Study Notes<br/><br/>
-  <a href="https://dothurlog.notion.site/6c60abe6670b4ccba6518dd5510d028a"><img src="https://img.shields.io/badge/-Notion-white?style=for-the-badge&logo=notion&logoColor=black" alt="Notion Badge"></a><br/><br/><br/>
 
 #### 👉 Contact Me<br/><br/>
   <a href="mailto:craz1000@naver.com"><img src="https://img.shields.io/badge/-Email-red?style=for-the-badge&logo=gmail&logoColor=white" alt="Email Badge"></a><br/><br/><br/>
